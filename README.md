@@ -1,3 +1,8 @@
+# Titulo do Projeto: Metricas de Clientes e Vendas
+# Linguagem SQL
+# Trata-se de um challenge by coodesh
+
+
 # DBA Challenge 20240802
 
 
