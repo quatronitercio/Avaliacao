@@ -1,4 +1,7 @@
 -- Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
+-- Feito a ligação entre as tabelas orders (pedidos), order_items (itens vendidos), products (produtos), stores (lojas) e brands (marcas)
+-- Realizado o agrupamento por nome da loja e nome da marca
+-- Ordenado por nome da loja e nome da marca
 
 Select lojas.store_name,
        marcas.brand_name,
