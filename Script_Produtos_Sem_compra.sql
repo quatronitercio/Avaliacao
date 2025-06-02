@@ -1,4 +1,5 @@
 -- Listar os Produtos que não tenham sido comprados
+-- Feito a ligação entre as tabelas products (produtos) e order_items (itens comprados) onde o resultado seja itens comprados nulo
 
 Select produtos.product_id, 
        produtos.product_name, 
