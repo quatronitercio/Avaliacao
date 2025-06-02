@@ -1,4 +1,5 @@
 -- Listar todos Clientes que não tenham realizado uma compra;
+-- Feito a ligação entre as tabelas customers (clientes) e orders (pedidos) onde o resultado seja nulo na tabela pedidos
 
 Select clientes.customer_id, 
        clientes.first_name, 
