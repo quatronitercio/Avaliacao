@@ -1,4 +1,5 @@
 -- Listar os Produtos sem Estoque;
+-- Feito a ligação entre as tabelas products (produtos) e stocks (estoque) onde o resultado seja produtos com estoque zerado
 
 Select produtos.product_id, 
        produtos.product_name, 
