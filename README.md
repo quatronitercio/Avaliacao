@@ -1,5 +1,6 @@
 # Titulo do Projeto: Metricas de Clientes e Vendas
 # Linguagem SQL
+# Executar os scripts dentro de uma plataforma SQL SERVER
 # Trata-se de um challenge by coodesh
 
 
